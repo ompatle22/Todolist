@@ -1,4 +1,4 @@
 # Todolist
 
-https://github.com/ompatle22/Todolist.git
+https://github.com/ompatle22/Todolist
 
